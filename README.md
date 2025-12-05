@@ -33,7 +33,7 @@ Terraform handles the entire infrastructure and deployment workflow end-to-end.
 ---
 
 ## Architecture Diagram
-![Diagram](architecture.png)
+![Diagram](docs/architecture.png)
 
 ---
 
