@@ -116,7 +116,9 @@ To redeploy using a new ZIP file (e.g., **v4.zip**):
 
 Elastic Beanstalk automatically deploys the updated version.
 
----
-
 This completes the fully automated Node.js deployment using **Terraform + Elastic Beanstalk**.
+## Destroy Resources
+   ```
+   terraform destroy
+   ```
 
